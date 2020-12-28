@@ -1,0 +1,4 @@
+*.php
+*.xml
+wp-json
+.DS_Store
