@@ -9,3 +9,6 @@ docker run --rm -it -v $PWD/websites:/websites hartator/wayback-machine-download
 ```
 
 There were many broken links, so I had to do some manual adjustments.
+
+## Original base
+https://web.archive.org/web/20171204032204/https://www.altpwr.net/
